@@ -1,2 +1,4 @@
-# Proffy
-Proffy é um aplicativo de estudos online, onde você pode se cadastrar como professor ou procurar professores disponíveis para lhe atender, e tudo isso pe feito por uma conexão via WhatsApp!
+<img src="/Proffy-1.0.png>
+
+# PROFFY
+**Proffy é um aplicativo web e mobile Open Sourse desenvolvido pela Rocketseat no evento Next Level Week. O aplicativo foi desenvolvido com as tecnologias NodeJS, ReactJS, React Native e TypeScript. :computer:
