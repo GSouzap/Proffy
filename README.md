@@ -19,16 +19,25 @@
 
 ### Aplicação Web (ReactJs + NodeJS + TypeScript)
 -HTML
+
 -CSS
+
 -JavaScript/TypeScript
+
 -ReactJS
+
 -React Router DOM
+
 -NodeJS
+
 -SQLite3
+
 
 ### Mobile (React Native + TypeScript)
 -Ract Native
+
 -NodeJS
+
 -SQLite3
 
 ## 📢 USABILIDADE:
@@ -108,6 +117,50 @@ $ <span class="pl-c1">cd</span>  server
 $ yarn knex:migrate
 
 </pre>
+
+## 📌FEATURES
+
+   ### Plataforma
+
+   - [:heavy_check_mark:] Cadastro
+   
+         - [ ] Salvar senha com criptografia
+
+   - [ ] Login 
+   
+         - [ ] Entrar na platafora
+	 
+         - [ ] Visualizar perfil
+   
+   #### Perfil
+   
+   - [ ] Exibir dados do usuario
+   
+   - [ ] Editar dados do usuário
+
+   #### Estudar
+   
+   - [ ] Criar um perfil de aluno
+   
+   - [:heavy_check_mark:] Listagem dos proffys disponiveis
+   
+   - [:heavy_check_mark:] Entre em contato com um Proffy
+   
+   - [:heavy_check_mark:] Favorite seus proffys favoritos
+   
+   - [:heavy_check_mark:] Filtre os proffys
+   
+        - [:heavy_check_mark:] Filtrar por matéria
+	
+        - [:heavy_check_mark:] Filtrar por dia da semana
+	
+        - [:heavy_check_mark:] Filtrar por hora
+   
+   #### Ensinar 
+   - [ ] Criar um perfil de professor
+   
+   - [ ] Criar uma matéria
+   
 
 # 💡 STATUS DO PROJETO:
 
