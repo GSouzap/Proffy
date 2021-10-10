@@ -102,7 +102,7 @@ $ npm install
 <span class="pl-c"><span class="pl-c">#</span> Execute a aplicação em modo de desenvolvimento</span>
 $ npm run start
 ou
-$ yarn add start
+$ yarn start
 <span class="pl-c"><span class="pl-c">#</span> A aplicação será aberta na porta:3333 - acesse http://localhost:3333/ </span>
 </pre>
 
